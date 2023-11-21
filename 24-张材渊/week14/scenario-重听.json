@@ -1,0 +1,11 @@
+[
+  {
+    "id": "node1",
+    "intent": [
+      "我要重听"
+    ],
+    "slot": [],
+    "action": "normal",
+    "response": ""
+  }
+]
